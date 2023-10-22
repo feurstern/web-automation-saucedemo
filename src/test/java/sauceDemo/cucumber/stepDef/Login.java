@@ -1,2 +1,4 @@
-package sauceDemo.cucumber.stepDef;public class Login {
+package sauceDemo.cucumber.stepDef;
+
+public class Login {
 }
